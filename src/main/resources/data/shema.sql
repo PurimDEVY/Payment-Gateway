@@ -1,0 +1,5 @@
+CREATE TABLE category(
+    id INTEGER  NOT NULL AUTO_INCREMENT,
+    category VARCHAR(128) NOT NULL,
+    PRIMARY KEY (id)
+);

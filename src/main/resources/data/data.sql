@@ -1,0 +1,1 @@
+INSERT INTO category (id, cate  goryName,description,imageUrl) VALUES (1, "category1","description1","url1");
